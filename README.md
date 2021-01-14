@@ -25,6 +25,7 @@ Antes de criarmos uma outra página HTML, decidimos dar um fundo diferente ao no
 
 ![fundo html](https://user-images.githubusercontent.com/75800165/104529864-971b3c80-5602-11eb-9083-dc319eeeaa2e.PNG)
 ![fundo](https://user-images.githubusercontent.com/75800165/104529869-984c6980-5602-11eb-9d31-acd7e2044e67.PNG)
+![fundo minimazdo](https://user-images.githubusercontent.com/75800165/104534680-a1423880-560c-11eb-9daf-d6e30acbc9cf.PNG)
 
 De seguida, começamos então a criação de uma nova página HTML que seria onde iriamos colocar as décadas de cada estilo musicas e os seus respetivos tops. Começamos pelo Hip Hop.
 Nesta página colocamos o nome do estilo de musica com uma breve descrição por baixo e, de seguida, decidimos organizar tudo através de listas e listas aninhadas.
