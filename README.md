@@ -28,6 +28,7 @@ Antes de criarmos uma outra página HTML, decidimos dar um fundo diferente ao no
 
 De seguida, começamos então a criação de uma nova página HTML que seria onde iriamos colocar as décadas de cada estilo musicas e os seus respetivos tops. Começamos pelo Hip Hop.
 Nesta página colocamos o nome do estilo de musica com uma breve descrição por baixo e, de seguida, decidimos organizar tudo através de listas e listas aninhadas.
+Utilizamos para todos os estilos musicais a mesma estrutura que criamos no ficheiro html de hiphop. Relativamente ao ficheiro CSS, criamos apenas 1 para todos os estilos musicais.
 
 ![lista html](https://user-images.githubusercontent.com/75800165/104530132-3b04e800-5603-11eb-8983-b40d28d478c7.PNG)
 ![lista](https://user-images.githubusercontent.com/75800165/104530137-3d674200-5603-11eb-88c4-c2afa9f0348b.PNG)
@@ -57,6 +58,16 @@ Com todos estes já feitos faltava-nos escolher um tipo de letra, assim o fizemo
 
 ![letra](https://user-images.githubusercontent.com/75800165/104533421-44458300-560a-11eb-9143-87c57df5c55f.PNG)
 ![letra2](https://user-images.githubusercontent.com/75800165/104533423-44de1980-560a-11eb-9013-8dedf97b0479.PNG)
+
+
+Por fim,  fizemos um formulário para os utilizadores preencherem antes de irem para a nossa página principal. Teriam de escrever o seu primeiro e ultimo nome para prosseguir. Dedicamos uma nova pagina HTML apenas para o formulário com o seu respetivo ficheiro CSS.
+
+![formulario css](https://user-images.githubusercontent.com/75800165/104533961-452ae480-560b-11eb-9653-168f87cdb249.PNG)
+![formulario2](https://user-images.githubusercontent.com/75800165/104533963-45c37b00-560b-11eb-8ade-30d674c5c3ec.PNG)
+![formulario](https://user-images.githubusercontent.com/75800165/104533964-465c1180-560b-11eb-9691-e07d03ff0291.PNG)
+
+
+
 
 
 
