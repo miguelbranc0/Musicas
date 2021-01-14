@@ -22,27 +22,39 @@ Depois desta fase concluída passamos para a parte prática. Nesta fase começam
  Na criação da tabela usámos o que o professor nos ensinou nas aulas para construir uma tabela em HTML (thead, tbody, tfoot e rowspan e colspan) e também personalizamos no documento CSS. Na mesma tabela também usamos a técnica de pôr uma fotografia num ficheiro deste tipo, adaptamos também o tamanho da fotografia ao nosso gosto e colocámos quase todos os objetos que criamos no centro da página. De seguida, criamos uma hiperligação em cada fotografia (através de anchors no html) para ao clicarmos nestas  sermos reencaminhados para uma nova página HTML também feita por nós, sendo que para cada estilo musica elaboramos uma página diferente.
 
 Antes de criarmos uma outra página HTML, decidimos dar um fundo diferente ao nosso projeto e fizemos isto através de um novo documento CSS. Aproveitamos também para utilizar a tecnica de media queries para ter responsividade para duas dimensões de ecrã. Selecionamos um segundo fundo para a segunda dimensão de ecrã. 
+
 ![fundo html](https://user-images.githubusercontent.com/75800165/104529864-971b3c80-5602-11eb-9083-dc319eeeaa2e.PNG)
 ![fundo](https://user-images.githubusercontent.com/75800165/104529869-984c6980-5602-11eb-9d31-acd7e2044e67.PNG)
 
 De seguida, começamos então a criação de uma nova página HTML que seria onde iriamos colocar as décadas de cada estilo musicas e os seus respetivos tops. Começamos pelo Hip Hop.
 Nesta página colocamos o nome do estilo de musica com uma breve descrição por baixo e, de seguida, decidimos organizar tudo através de listas e listas aninhadas.
+
 ![lista html](https://user-images.githubusercontent.com/75800165/104530132-3b04e800-5603-11eb-8983-b40d28d478c7.PNG)
 ![lista](https://user-images.githubusercontent.com/75800165/104530137-3d674200-5603-11eb-88c4-c2afa9f0348b.PNG)
+
 Utilizamos também a tecnica de hiperligações internas para ajudar a navegação dentro da nossa página. Isto fez com que nos facilitasse a pesquisa entre décadas, e também ajudou-nos ao voltar início da página e à página inicial. Aproveitamos também para utilizar um seletor simples, uma pseudoclasse para fazer com que as hiperligações alterassem a cor quando o cursor passa por cima. 
+
 ![navegacaofacil2](https://user-images.githubusercontent.com/75800165/104531458-1c542080-5606-11eb-9503-197ec87f33c7.PNG)
 ![naveg](https://user-images.githubusercontent.com/75800165/104531459-1cecb700-5606-11eb-9d2e-52f72300fc21.PNG)
 ![123](https://user-images.githubusercontent.com/75800165/104531460-1d854d80-5606-11eb-8a67-9b968330ab47.PNG)
 ![rato](https://user-images.githubusercontent.com/75800165/104531462-1d854d80-5606-11eb-9ed9-3a4bb99ce9f4.PNG)
 ![navegacao facil](https://user-images.githubusercontent.com/75800165/104531463-1e1de400-5606-11eb-9599-aa7afab9572e.PNG)
+ 
  Utilizamos também um elemento escondido para criar espaço vazio entre o final das listas e as hiperligações do final da página.
+ 
+ 
  ![invisivel](https://user-images.githubusercontent.com/75800165/104532080-5a9e0f80-5607-11eb-906e-fb0eb5ff7c8e.PNG)
 ![invive](https://user-images.githubusercontent.com/75800165/104532082-5b36a600-5607-11eb-88e6-1988d3c166dd.PNG)
+
 Para a manipulação dos elementos de formatação de caixas em HTML, criamos uma caixa fixa no canto direito inferior com o texto "Trabalho realizado por Miguel Branco e Bárbara Oliveira." em todas as nossas páginas.
+
 ![caixa](https://user-images.githubusercontent.com/75800165/104532930-4b1fc600-5609-11eb-8947-52b9c8f82b1c.PNG)
 ![caixa html](https://user-images.githubusercontent.com/75800165/104532933-4bb85c80-5609-11eb-95cc-9a90bc1ffb92.PNG)
 ![caixa css](https://user-images.githubusercontent.com/75800165/104532935-4bb85c80-5609-11eb-91f9-0cb8397ba688.PNG)
+
 Com todos estes já feitos faltava-nos escolher um tipo de letra, assim o fizemos. Escolhemos a letra helvetica.
+
+
 ![letra](https://user-images.githubusercontent.com/75800165/104533421-44458300-560a-11eb-9143-87c57df5c55f.PNG)
 ![letra2](https://user-images.githubusercontent.com/75800165/104533423-44de1980-560a-11eb-9013-8dedf97b0479.PNG)
 
