@@ -61,11 +61,16 @@ Com todos estes já feitos faltava-nos escolher um tipo de letra, assim o fizemo
 ![letra2](https://user-images.githubusercontent.com/75800165/104533423-44de1980-560a-11eb-9013-8dedf97b0479.PNG)
 
 
-Por fim,  fizemos um formulário para os utilizadores preencherem antes de irem para a nossa página principal. Teriam de escrever o seu primeiro e ultimo nome para prosseguir. Dedicamos uma nova pagina HTML apenas para o formulário com o seu respetivo ficheiro CSS.
+Fizemos um formulário para os utilizadores preencherem antes de irem para a nossa página principal. Teriam de escrever o seu primeiro e ultimo nome para prosseguir. Dedicamos uma nova pagina HTML apenas para o formulário com o seu respetivo ficheiro CSS.
 
 ![formulario css](https://user-images.githubusercontent.com/75800165/104533961-452ae480-560b-11eb-9653-168f87cdb249.PNG)
 ![formulario2](https://user-images.githubusercontent.com/75800165/104533963-45c37b00-560b-11eb-8ade-30d674c5c3ec.PNG)
 ![formulario](https://user-images.githubusercontent.com/75800165/104533964-465c1180-560b-11eb-9691-e07d03ff0291.PNG)
+
+
+Por fim, fizemos a validação do HTML e CSS no W3c Validator.
+
+
 
 
 
