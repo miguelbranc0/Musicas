@@ -6,5 +6,5 @@ No trabalho prático de avaliação de Tecnologias Web vamos escolher como tema 
 Na nossa pagina inicial vamos ter logo a opção de escolher um estilo musical, cada um destes com uma respetiva imagem a representá-lo. Ao clicar num dos estilos vamos ser reencaminhados para uma nova página com várias opções relativamente ao espaço temporal, vamos dividir este por décadas, anos 80, anos 90, anos 2000 e os anos 2010 e nessa mesma página ao escolhermos uma das décadas vão aparecer musicas dentro espaço temporal, cada uma destas músicas vai estar identificada com o nome, artista, uma fotografia e uma pequena descrição. 
 Utilizando o conhecimento de HTML E CSS adquirido nas aulas de Tecnologias Web vamos criar lista, tabelas, hiperligações, imagens, entre outros.. Vamos utilizar o CSS para personalizar as páginas à nossa maneira, escolhendo o tipo de letra, pondo uma fotografia de fundo, etc..
 
+##Relatório
 
-![tabela](https://user-images.githubusercontent.com/75800165/104529596-047a9d80-5602-11eb-9aac-ed049449fd92.PNG)
