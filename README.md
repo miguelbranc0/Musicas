@@ -7,6 +7,7 @@ Na nossa pagina inicial vamos ter logo a opção de escolher um estilo musical, 
 Utilizando o conhecimento de HTML E CSS adquirido nas aulas de Tecnologias Web vamos criar lista, tabelas, hiperligações, imagens, entre outros.. Vamos utilizar o CSS para personalizar as páginas à nossa maneira, escolhendo o tipo de letra, pondo uma fotografia de fundo, etc..
 
 ## Relatório
+Para a utilização do nosso site é necessário iniciar pela abertura do ficheiro formulario.html. Depois de responder o formulário será logo redirecionado para a pagina inicial do nosso trabalho, com o nome trabalhofinal.html . De seguida, terá de escolher um estilo musical e será encaminhado para página desse estilo, para ver toda a informação sobre o mesmo.
 
 No início do desenvolvimento deste trabalho começamos por escolher os estilos de música que íamos utilizar. Tivemos de ter algum critério na escolha do estilo pois existem alguns que não preenchiam os nossos requisitos. Alguns estilo eram complicados de efetuar pesquisa pois não há informação suficiente na internet. 
 Com isto, acabámos por escolher os estilos musicais Rock, Pop, Hip-Hop, Jazz, EDM.  De seguida decidimos procurar uma fotografia que representasse cada um destes estilos, de forma que fossem dentro do mesmo estilo.  
@@ -35,6 +36,18 @@ Utilizamos também a tecnica de hiperligações internas para ajudar a navegaç�
 ![rato](https://user-images.githubusercontent.com/75800165/104531462-1d854d80-5606-11eb-9ed9-3a4bb99ce9f4.PNG)
 ![navegacao facil](https://user-images.githubusercontent.com/75800165/104531463-1e1de400-5606-11eb-9599-aa7afab9572e.PNG)
  Utilizamos também um elemento escondido para criar espaço vazio entre o final das listas e as hiperligações do final da página.
+ ![invisivel](https://user-images.githubusercontent.com/75800165/104532080-5a9e0f80-5607-11eb-906e-fb0eb5ff7c8e.PNG)
+![invive](https://user-images.githubusercontent.com/75800165/104532082-5b36a600-5607-11eb-88e6-1988d3c166dd.PNG)
+Para a manipulação dos elementos de formatação de caixas em HTML, criamos uma caixa fixa no canto direito inferior com o texto "Trabalho realizado por Miguel Branco e Bárbara Oliveira." em todas as nossas páginas.
+![caixa](https://user-images.githubusercontent.com/75800165/104532930-4b1fc600-5609-11eb-8947-52b9c8f82b1c.PNG)
+![caixa html](https://user-images.githubusercontent.com/75800165/104532933-4bb85c80-5609-11eb-95cc-9a90bc1ffb92.PNG)
+![caixa css](https://user-images.githubusercontent.com/75800165/104532935-4bb85c80-5609-11eb-91f9-0cb8397ba688.PNG)
+Com todos estes já feitos faltava-nos escolher um tipo de letra, assim o fizemos. Escolhemos a letra helvetica.
+![letra](https://user-images.githubusercontent.com/75800165/104533421-44458300-560a-11eb-9143-87c57df5c55f.PNG)
+![letra2](https://user-images.githubusercontent.com/75800165/104533423-44de1980-560a-11eb-9013-8dedf97b0479.PNG)
+
+
+
 
 
 
