@@ -7,3 +7,4 @@ Na nossa pagina inicial vamos ter logo a opção de escolher um estilo musical, 
 Utilizando o conhecimento de HTML E CSS adquirido nas aulas de Tecnologias Web vamos criar lista, tabelas, hiperligações, imagens, entre outros.. Vamos utilizar o CSS para personalizar as páginas à nossa maneira, escolhendo o tipo de letra, pondo uma fotografia de fundo, etc..
 
 
+![tabela](https://user-images.githubusercontent.com/75800165/104529596-047a9d80-5602-11eb-9aac-ed049449fd92.PNG)
